@@ -18,12 +18,12 @@ When developing your solution to this problem, ensure that your program meets th
     **OR**
     - [ ] You can read in the value as a string and split it into the various parts
 - [ ] If change is being made for a value less than &pound;1 (e.g. &pound;0.24), assume that the number of pounds is 0. If change is being made for a value with no pence (e.g. &pound;12.00), assume that the number of pence is 0.
-- [ ] Make change with the minimum number of coins for the given amount. You can accomplish this using modulo (`%`) and division (`/`).
+- [ ] Make the change with the minimum number of coins for the given amount. You can accomplish this using modulo (`%`) and division (`/`).
 - [ ] The output is printed to standard output (i.e. `cout`). Print the number of notes and coins of each denomination, ignoring denominations with 0, and the total number of notes and coins.
 
-- [ ] Format output like so (input is in **bold**):
-> Number of pounds (&pound;): **13**  
-> Number of pence (p): **34**  
+- [ ] Format output like so (input is in ***bold italics***):
+> Number of pounds (&pound;): ***13***  
+> Number of pence (p): ***34***  
 &pound;10 &ndash; 1  
 &pound;2 &ndash; 1  
 &pound;1 &ndash; 1  
